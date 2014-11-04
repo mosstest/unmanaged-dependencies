@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 23 18:32:13 EDT 2013
+lwjgl-workaround-9.5.1.jar>=
+lwjgl-workaround-9.5.1.pom>=
